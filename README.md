@@ -1,1 +1,1 @@
-Redesign for the docotr dashboard - https://ogshrug.github.io/advocato_clean/
+Redesign for the doctor dashboard - https://ogshrug.github.io/advocato_clean/
